@@ -1,0 +1,1 @@
+"el init de lyrics processor"

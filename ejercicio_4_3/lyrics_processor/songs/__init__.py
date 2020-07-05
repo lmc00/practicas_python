@@ -1,0 +1,1 @@
+from lyrics_processor.songs.example import despacito
